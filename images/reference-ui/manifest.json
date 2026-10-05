@@ -1,0 +1,229 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "home-hero.webp",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-e0712964-2ba5-42ed-b961-9b5decbd2c4a.png",
+      "cell": null,
+      "bytes": 110530,
+      "sha256": "3923769835cea06393738b7b891d1751766192713f78243cdcdb51edb3f9a57d"
+    },
+    {
+      "file": "assistant-hero.webp",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-3c8b40f0-c06b-4ebc-a03a-6241f9dc47a2.png",
+      "cell": null,
+      "bytes": 104762,
+      "sha256": "5ab1a5d588230a88ee7f911858d0b07e6452666a976958799f9a85605ba43e08"
+    },
+    {
+      "file": "funding.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 1,
+        "column": 1,
+        "left": 0,
+        "top": 0,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 32778,
+      "sha256": "48b8a6d14bd2853f33f3eba3244260614ed76ef5b90d4b858a7a6d4dbec70c4d"
+    },
+    {
+      "file": "ai-creator.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 1,
+        "column": 2,
+        "left": 362,
+        "top": 0,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 31350,
+      "sha256": "1c944dd5876efb869239a6d596d6785458ce3de65ded2e9ed1d5142322a3be58"
+    },
+    {
+      "file": "ai-vibecoding.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 1,
+        "column": 3,
+        "left": 724,
+        "top": 0,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 40136,
+      "sha256": "898c7f5b096efab1d989ea75322978b09891e33fff4e450b6e7401c3a9b25d2c"
+    },
+    {
+      "file": "ai-agents.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 1,
+        "column": 4,
+        "left": 1086,
+        "top": 0,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 33548,
+      "sha256": "315c9c10d16663be031385d0e915c26712cf6d1bbb20ce94b17a898a49fd32ed"
+    },
+    {
+      "file": "investments.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 2,
+        "column": 1,
+        "left": 0,
+        "top": 362,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 36708,
+      "sha256": "e82115f2f766789e6cff58ed1a9f5571b24374aed68e18c193f9bba40b9a70fd"
+    },
+    {
+      "file": "abuses-jailbreaks.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 2,
+        "column": 2,
+        "left": 362,
+        "top": 362,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 29670,
+      "sha256": "ec9db7bb0de0e00a009cb4795c5df930eca40666ad1b8944d8da42b4326c8efc"
+    },
+    {
+      "file": "payments.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 2,
+        "column": 3,
+        "left": 724,
+        "top": 362,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 31732,
+      "sha256": "a39f50ca02f0375ecd50f7915116a6cf83a95b4cf18124e8d4314c9fd32062ff"
+    },
+    {
+      "file": "paying-for-ai.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 2,
+        "column": 4,
+        "left": 1086,
+        "top": 362,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 33708,
+      "sha256": "b1deb17e78476beb11c8f615c2e3e5d0bfd03836750d1b84311d1a6f3b58eacf"
+    },
+    {
+      "file": "promotion.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 3,
+        "column": 1,
+        "left": 0,
+        "top": 724,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 35888,
+      "sha256": "c51c5f11a122c24e2207c4f1fb9773b864fc9b23918d6fe8b57203d4802fc842"
+    },
+    {
+      "file": "tools.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 3,
+        "column": 2,
+        "left": 362,
+        "top": 724,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 31046,
+      "sha256": "e9eaede9d0a9b94885e411e4240a0c905ad402e2fefeec32253cfcaeb2de9435"
+    },
+    {
+      "file": "profile-identity.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 3,
+        "column": 3,
+        "left": 724,
+        "top": 724,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 31620,
+      "sha256": "b138d564724d4b77494c1d8b9de3f193af05e4ffe1f3a834d63baf90b240f91c"
+    },
+    {
+      "file": "catalog-books.webp",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "source": "D:/temp/ai-hub-admin/reference-ui-four-screens/assets/originals/exec-353c4bd2-1138-464f-934e-3b296ec38b08.png",
+      "cell": {
+        "row": 3,
+        "column": 4,
+        "left": 1086,
+        "top": 724,
+        "width": 362,
+        "height": 362
+      },
+      "bytes": 41660,
+      "sha256": "375ef67ad968cbbf9907babf4e5f2ebf0e62e4f8daee242aa24f2fe2cb8e0870"
+    }
+  ]
+}

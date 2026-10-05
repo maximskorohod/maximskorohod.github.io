@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:oklch(0.3 0.15 250);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:oklch(0.15 0.1 250);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <text x="600" y="280" font-family="monospace" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle">Lewis Menelaws</text>
+  <text x="600" y="360" font-family="monospace" font-size="40" fill="#ffffff" text-anchor="middle" opacity="0.8">Coding with Lewis</text>
+  <text x="600" y="430" font-family="sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" opacity="0.7">Developer Education & Programming Tutorials</text>
+</svg>
